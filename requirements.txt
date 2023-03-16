@@ -1,0 +1,5 @@
+websocket-client
+cryptography
+schedule
+qrcode
+httpx
